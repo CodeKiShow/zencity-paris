@@ -1,1 +1,3 @@
-// Le code du composant GeoFilter
+import React, { useState } from 'react';
+import { MapPin, Search, Flag, Star, Car, Compass } from 'lucide-react';
+...
